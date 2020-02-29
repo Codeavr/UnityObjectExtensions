@@ -1,0 +1,19 @@
+{
+  "name": "com.codeavr.unity-object-extensions",
+  "displayName": "Unity Object Extensions",
+  "description": "Useful UnityEngine.Object extensions",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "license": "MIT",
+  "keywords": [
+    "object",
+    "extensions",
+    "unity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Codeavr/UnityObjectExtensions.git"
+  },
+  "author": "Codeavr <codeavr@ya.ru> (https://github.com/Codeavr)",
+  "dependencies": {}
+}
